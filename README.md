@@ -17,9 +17,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
+e.g. ![GitHub Signup page](./image17.png)
+```
 For more details see [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+### GitHub Signup page
+![GitHub Signup page](./image17.png)
+
 
 ## GitHub Branches
 
